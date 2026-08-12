@@ -34,3 +34,13 @@ Say any of:
 ```bash
 npx skills add TravisPattersonSAP/joule-onboarding-migration
 
+Requirements
+Joule Work Desktop
+Python (python, python3, or py) available on your machine
+No MCP servers required
+Author
+Travis Patterson — github.com/TravisPattersonSAP
+
+License
+MIT
+
